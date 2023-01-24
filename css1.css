@@ -1,0 +1,40 @@
+div{
+    background: purple;
+    color:white; 
+}
+#quote {
+    font-family: "verdana","gills sans";
+    color:black;
+    position:fixed;
+}
+#author{
+    
+    color:blue;
+    text-transform: uppercase;
+}
+.movie{
+    color:blue;
+    background:pink;
+}
+#skills ol li{
+    color:lightcyan;
+
+}
+#skills ul li{
+    color:rgb(132, 192, 132);
+
+}
+.games{
+    font-family: "verdana","gills sans";
+    color:aquamarine;
+
+}
+h2+p{
+    background:coral;
+}
+p[class]{
+    background :grey;
+}
+p[id]{
+    background :yellowgreen;
+}

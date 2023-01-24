@@ -1,0 +1,47 @@
+a:hover {
+    background:hsl(0, 0%, 0%);
+  color:lightgoldenrodyellow;
+  cursor:black;
+}
+body{
+    background:lightpink;
+}
+#quote{
+   visiblity:hidden;
+}
+header{
+    padding:0px 0px 10px 0px;
+}
+#italics:hover{
+    display:block;
+    background:black;
+    color:white;
+}
+#hema:first-line{
+
+    text-transform:uppercase;
+}
+    
+#teju{
+   direction: rtl;
+}
+   
+}
+#footer{
+    clear:both;
+    background-color:black;
+    color:white;
+}
+ol{ 
+    list-style-type:lower-latin;
+    list-style-position:outside;
+}
+ul{
+    background-color:aliceblue;
+    width:360px;
+    margin:100px auto 
+    
+}
+li:nth-child(2n) {
+    background-color:gainsboro;
+}

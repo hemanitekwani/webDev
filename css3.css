@@ -1,0 +1,43 @@
+#container{
+    background:blueviolet;
+    border: 2px solid black;
+    border-radius:5px;
+}
+#centered{
+    text-align:center;
+    
+}
+#top-left{
+    background:lightgoldenrodyellow;2
+    border:1px solid black;
+    position:absolute;
+    width:200px;
+    height:200px;
+}
+#bottom-right{
+    background:white;
+    position:absolute;
+    bottom:0px;
+    right:0px;
+    color:black;
+    z-index:5;
+}
+#fixed-position{
+
+     position:fixed;
+     background:black;
+     color:white;
+}
+#relative-1{
+    background:#871111;
+    border:1px solid black;
+    height:100px;
+}
+#relative-2{
+    background:relative;
+    left:20px;
+    top:30px;
+    background:yellow;
+    border:1px solid blue;
+    
+}
